@@ -10,4 +10,4 @@ A little about me:
   
 - 🔤 The programming languages I use the most are: _C++_, _Python_ and _Java_
 
-Check me out at [Codeforces](https://codeforces.com/profile/arthur_9548), [AtCoder](https://atcoder.jp/users/Arthur9548) and [CSES](https://cses.fi/user/156193/)
+Check me out at [Codeforces](https://codeforces.com/profile/arthur_9548), [AtCoder](https://atcoder.jp/users/Arthur9548) and [CSES](https://cses.fi/user/156193/)!
