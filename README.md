@@ -3,6 +3,8 @@
 A little about me:
 
 - 🎓 I’m currently pursuing a bachelor's degree in Computer Science at [University of Brasília](https://www.unb.br/)
+
+- 🟣 I'm also a Data Engineering Intern at [Incognia](https://www.incognia.com/).
   
 - 🧩 I love solving logical and algorithmic problems!
   
